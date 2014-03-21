@@ -905,12 +905,12 @@ minimale Strichstärke: &lt;b&gt;0.2 mm&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 <attribute name="VALUE" x="29.29" y="9.11" size="0.6096" layer="27"/>
 </element>
 <element name="LED1" library="led" package="CHIPLED_1206" value="Red" x="21.75" y="3.75" smashed="yes" rot="R90">
-<attribute name="NAME" x="19.93" y="4.65" size="0.6096" layer="25" rot="R180"/>
-<attribute name="VALUE" x="19.77" y="3.59" size="0.6096" layer="27" rot="R180"/>
+<attribute name="NAME" x="18.99" y="4.42" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="19.02" y="3.52" size="0.6096" layer="27" rot="R180"/>
 </element>
 <element name="LED2" library="led" package="CHIPLED_1206" value="Green" x="12.9" y="3.74" smashed="yes" rot="R270">
-<attribute name="NAME" x="8.84" y="3.93" size="0.6096" layer="25"/>
-<attribute name="VALUE" x="8.69" y="2.91" size="0.6096" layer="27"/>
+<attribute name="NAME" x="8.18" y="3.88" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="7.89" y="3.02" size="0.6096" layer="27"/>
 </element>
 <element name="SJ2" library="SparkFun" package="SJ_3" value="" x="32.18" y="11.36" rot="MR90"/>
 <element name="JP1" library="SparkFun" package="1X06-SMD-FEMALE-V2" value="" x="54.81" y="11" smashed="yes" rot="MR270">
